@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Inducing Wireless Chargers to Voice Out for Inaudible Command Attacks
 
-You can use the [editor on GitHub](https://github.com/Anplus/magsound/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Recent work demonstrated that speech recognition systems or voice assistants can be manipulated by malicious voice commands, which are injected through various inaudible media, such as ultrasound, laser, and electromagnetic interference (EMI). In this work, we explore a new kind of inaudible voice attack through the magnetic interference induced by a wireless charger. Essentially, we show that the microphone components of smart devices suffer from severe magnetic interference when they are enjoying wireless charging, due to the absence of effective protection against the EMI at low frequencies (100 kHz or below). By taking advantage of this vulnerability, we design two inaudible voice attacks, HeartwormAttack and ParasiteAttack, both of which aim to inject malicious voice commands into smart devices being wirelessly charged. They make use of a compromised wireless charger or accessory equipment (called parasite) to inject the voice, respectively. We conduct extensive experiments with 17 victim devices (iPhone, Huawei, Samsung, etc.) and 6 types of voice assistants (Siri, Google STT, Bixby, etc.). Evaluation results demonstrate the feasibility of two proposed attacks with commercial charging settings.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Demo
 
-### Markdown
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ezb_sGYCPI?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Paper
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Anplus/magsound/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    @inproceedings{dai2023inducing,
+      title={Inducing Wireless Chargers to Voice Out for Inaudible Command Attacks},
+      author={Dai, Donghui and An, Zhenlin and Yang, Lei},
+      booktitle = {2023 2023 IEEE Symposium on Security and Privacy (SP)},
+      year = {2023},
+      publisher = {IEEE Computer Society},
+      address = {Los Alamitos, CA, USA},
+      month = {may}
+    }
