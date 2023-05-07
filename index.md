@@ -5,9 +5,9 @@ Recent work demonstrated that speech recognition systems or voice assistants can
 ## Teaser Video
 <iframe width="1732" height="634" src="https://www.youtube.com/embed/-JItdyhV1ik" title="IEEE S&amp;P 2023 Teaser Video &quot;Inducing Wireless Chargers to Voice Out for Inaudible Command Attacks&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Demo
+## Full Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7ezb_sGYCPI?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1732" height="634" src="https://www.youtube.com/embed/oU4hSGAzZCU" title="Full Demo for MagSound which is accepted at IEEE S&amp;P 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Paper
