@@ -5,7 +5,7 @@ Recent work demonstrated that speech recognition systems or voice assistants can
 ## Teaser Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-JItdyhV1ik?loop=1"></iframe>
 
-## Full Demo
+## Full Demo Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oU4hSGAzZCU?loop=1"></iframe>
 
 
