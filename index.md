@@ -11,11 +11,11 @@ Recent work demonstrated that speech recognition systems or voice assistants can
 
 ## Paper
 
-@inproceedings{dai2022inducing,
-  title={Inducing wireless chargers to voice out for inaudible command attacks},
-  author={Dai, Donghui and An, Zhenlin and Yang, Lei},
-  booktitle={2023 IEEE Symposium on Security and Privacy (SP)},
-  pages={503--520},
-  year={2022},
-  organization={IEEE Computer Society}
-}
+  @inproceedings{dai2022inducing,  
+    title={Inducing wireless chargers to voice out for inaudible command attacks},  
+    author={Dai, Donghui and An, Zhenlin and Yang, Lei},  
+    booktitle={2023 IEEE Symposium on Security and Privacy (SP)},  
+    pages={503--520},  
+    year={2022},  
+    organization={IEEE Computer Society}  
+  }  
